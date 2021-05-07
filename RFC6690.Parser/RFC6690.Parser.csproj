@@ -1,7 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<Authors>Terry Butler</Authors>
+		<PackageId>RFC6690.Parser</PackageId>
+		<Version>1.0.0</Version>
+		<Company>Terry Butler</Company>
+		<Product>RFC6690.Parser</Product>
+		<Description>Basic implementation for parsing Constrained RESTful Environments (CoRE) Link Format (RFC6690)</Description>
+		<PackageProjectUrl>https://github.com/terryjbutler/RFC6690.Parser</PackageProjectUrl>
+	</PropertyGroup>
 
 </Project>
