@@ -2,8 +2,8 @@ name: Release
 
 on:
   push:
-    tags:
-    - '*.*.*'
+    branches:
+      - master # Default release branch
 jobs:
   publish:
     name: build, pack & publish
