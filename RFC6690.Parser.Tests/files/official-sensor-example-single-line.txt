@@ -1,0 +1,3 @@
+# Example: https://tools.ietf.org/html/rfc6690#section-5
+
+</sensors>;ct=40;title="Sensor Index",</sensors/temp>;rt="temperature-c";if="sensor",</sensors/light>;rt="light-lux";if="sensor",<http://www.example.com/sensors/t123>;anchor="/sensors/temp";rel="describedby",</t>;anchor="/sensors/temp";rel="alternate"
